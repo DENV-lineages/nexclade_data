@@ -8,7 +8,7 @@
     "minLength": 1000
   },
   "attributes": {
-    "name": "Dengue virus DENV1 lineages",
+    "name": "DENV1 lineages",
     "reference accession": "NC_001477",
     "reference name": "NC_001477"
   },

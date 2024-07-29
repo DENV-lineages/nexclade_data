@@ -98,7 +98,7 @@
     "colorings": [
       {
         "key": "clade_membership",
-        "title": "Clade",
+        "title": "Lineages",
         "type": "categorical"
       },
       {

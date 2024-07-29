@@ -7,7 +7,7 @@
 | -------------------- | ---------------------------------------- |
 | name                 | denv-1                                   |
 | refName              | NC_001477                                |
-| refAccession         | NC_001477                                |
+| refAccession         | NC_001477.1                              |
 
 
 ## Authors and contacts

@@ -1,7 +1,7 @@
 {
   "version": "v2",
   "meta": {
-    "updated": "2024-07-25",
+    "updated": "2024-07-29",
     "genome_annotations": {
       "2K": {
         "end": 6826,
@@ -98,7 +98,7 @@
     "colorings": [
       {
         "key": "clade_membership",
-        "title": "Lineages",
+        "title": "Lineage",
         "type": "categorical"
       },
       {
@@ -1212,7 +1212,7 @@
                 "node_attrs": {
                   "div": 0.036671260000000004,
                   "clade_membership": {
-                    "value": "1VI"
+                    "value": "1VII"
                   }
                 },
                 "branch_attrs": {
@@ -1250,7 +1250,7 @@
                   },
                   "labels": {
                     "aa": "E: T339I; NS1: I66V; NS4A: R20K",
-                    "lineages": "1VI"
+                    "lineages": "1VII"
                   }
                 },
                 "children": [
@@ -1259,7 +1259,7 @@
                     "node_attrs": {
                       "div": 0.05604296,
                       "clade_membership": {
-                        "value": "1VI"
+                        "value": "1VII"
                       }
                     },
                     "branch_attrs": {
@@ -1543,7 +1543,7 @@
                     "node_attrs": {
                       "div": 0.058382460000000004,
                       "clade_membership": {
-                        "value": "1VI"
+                        "value": "1VII"
                       }
                     },
                     "branch_attrs": {
@@ -1801,7 +1801,7 @@
                         "node_attrs": {
                           "div": 0.07165696,
                           "clade_membership": {
-                            "value": "1VI_A"
+                            "value": "1VII_A"
                           }
                         },
                         "branch_attrs": {
@@ -1954,7 +1954,7 @@
                           },
                           "labels": {
                             "aa": "2K: M17I; NS1: I104V; NS2A: S7N, I19V; NS3: R15K, L65V; NS5: T59A",
-                            "lineages": "1VI_A"
+                            "lineages": "1VII_A"
                           }
                         },
                         "children": [
@@ -1963,7 +1963,7 @@
                             "node_attrs": {
                               "div": 0.07420519,
                               "clade_membership": {
-                                "value": "1VI_A"
+                                "value": "1VII_A"
                               }
                             },
                             "branch_attrs": {
@@ -2017,7 +2017,7 @@
                             "node_attrs": {
                               "div": 0.07217006000000001,
                               "clade_membership": {
-                                "value": "1VI_A"
+                                "value": "1VII_A"
                               }
                             },
                             "branch_attrs": {
@@ -2036,7 +2036,7 @@
                                 "node_attrs": {
                                   "div": 0.07363976000000001,
                                   "clade_membership": {
-                                    "value": "1VI_A"
+                                    "value": "1VII_A"
                                   }
                                 },
                                 "branch_attrs": {
@@ -2077,7 +2077,7 @@
                                     "node_attrs": {
                                       "div": 0.07580498000000001,
                                       "clade_membership": {
-                                        "value": "1VI_A"
+                                        "value": "1VII_A"
                                       }
                                     },
                                     "branch_attrs": {
@@ -2119,7 +2119,7 @@
                                     "node_attrs": {
                                       "div": 0.07590285000000001,
                                       "clade_membership": {
-                                        "value": "1VI_A"
+                                        "value": "1VII_A"
                                       }
                                     },
                                     "branch_attrs": {
@@ -2164,7 +2164,7 @@
                                 "node_attrs": {
                                   "div": 0.07511541000000001,
                                   "clade_membership": {
-                                    "value": "1VI_A"
+                                    "value": "1VII_A"
                                   }
                                 },
                                 "branch_attrs": {
@@ -2225,7 +2225,7 @@
                                     "node_attrs": {
                                       "div": 0.08309699000000001,
                                       "clade_membership": {
-                                        "value": "1VI_A"
+                                        "value": "1VII_A"
                                       }
                                     },
                                     "branch_attrs": {
@@ -2345,7 +2345,7 @@
                                     "node_attrs": {
                                       "div": 0.08198639,
                                       "clade_membership": {
-                                        "value": "1VI_A"
+                                        "value": "1VII_A"
                                       }
                                     },
                                     "branch_attrs": {
@@ -2463,7 +2463,7 @@
                         "node_attrs": {
                           "div": 0.06941266,
                           "clade_membership": {
-                            "value": "1VI_B"
+                            "value": "1VII_B"
                           }
                         },
                         "branch_attrs": {
@@ -2610,7 +2610,7 @@
                           },
                           "labels": {
                             "aa": "C: K86R, N93S; NS2A: I106V, I174M; NS2B: Y110F; NS3: R185K; NS4A: V93I; NS5: H435R, T635N, V782I",
-                            "lineages": "1VI_B"
+                            "lineages": "1VII_B"
                           }
                         },
                         "children": [
@@ -2619,7 +2619,7 @@
                             "node_attrs": {
                               "div": 0.07158633,
                               "clade_membership": {
-                                "value": "1VI_B"
+                                "value": "1VII_B"
                               }
                             },
                             "branch_attrs": {
@@ -2664,7 +2664,7 @@
                             "node_attrs": {
                               "div": 0.07142046,
                               "clade_membership": {
-                                "value": "1VI_B"
+                                "value": "1VII_B"
                               }
                             },
                             "branch_attrs": {
@@ -2716,7 +2716,7 @@
                                 "node_attrs": {
                                   "div": 0.07263071,
                                   "clade_membership": {
-                                    "value": "1VI_B"
+                                    "value": "1VII_B"
                                   }
                                 },
                                 "branch_attrs": {
@@ -2748,7 +2748,7 @@
                                     "node_attrs": {
                                       "div": 0.0743052,
                                       "clade_membership": {
-                                        "value": "1VI_B"
+                                        "value": "1VII_B"
                                       }
                                     },
                                     "branch_attrs": {
@@ -2792,7 +2792,7 @@
                                     "node_attrs": {
                                       "div": 0.07489329,
                                       "clade_membership": {
-                                        "value": "1VI_B"
+                                        "value": "1VII_B"
                                       }
                                     },
                                     "branch_attrs": {
@@ -2847,7 +2847,7 @@
                                 "node_attrs": {
                                   "div": 0.07188245,
                                   "clade_membership": {
-                                    "value": "1VI_B"
+                                    "value": "1VII_B"
                                   }
                                 },
                                 "branch_attrs": {
@@ -2876,7 +2876,7 @@
                                     "node_attrs": {
                                       "div": 0.07345799,
                                       "clade_membership": {
-                                        "value": "1VI_B"
+                                        "value": "1VII_B"
                                       }
                                     },
                                     "branch_attrs": {
@@ -2922,7 +2922,7 @@
                                     "node_attrs": {
                                       "div": 0.07612785,
                                       "clade_membership": {
-                                        "value": "1VI_B"
+                                        "value": "1VII_B"
                                       }
                                     },
                                     "branch_attrs": {

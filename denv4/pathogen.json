@@ -8,8 +8,8 @@
     "minLength": 1000
   },
   "attributes": {
-    "name": "DENV4 lineages",
-    "reference accession": "NC_002640",
+    "name": "DENV-4 lineages",
+    "reference accession": "NC_002640.1",
     "reference name": "NC_002640"
   },
   "compatibility": {

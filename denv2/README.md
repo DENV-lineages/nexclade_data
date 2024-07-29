@@ -1,4 +1,4 @@
-# Nextclade dataset for "denv-2" based on reference "NC_001474" (../../v2/DENV2/)
+# Nextclade dataset for "denv-2" based on reference "NC_001474"
 
 
 ## Dataset attributes
@@ -7,7 +7,7 @@
 | -------------------- | ---------------------------------------- |
 | name                 | denv-2                                   |
 | refName              | NC_001474                                |
-| refAccession         | NC_001474                                |
+| refAccession         | NC_001474.2                              |
 
 
 ## Authors and contacts

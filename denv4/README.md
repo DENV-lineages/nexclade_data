@@ -1,13 +1,13 @@
-# Nextclade dataset for "UNKNOWN" (../../v2/DENV4/)
+# Nextclade dataset for "denv-4" based on reference "NC_002640"
 
 
 ## Dataset attributes
 
 | attribute            | value                                    |
 | -------------------- | ---------------------------------------- |
-| name                 | UNKNOWN                                  |
-| refName              | UNKNOWN                                  |
-| refAccession         | UNKNOWN                                  |
+| name                 | denv-4                                   |
+| refName              | NC_002640                                |
+| refAccession         | NC_002640.1                              |
 
 
 ## Authors and contacts

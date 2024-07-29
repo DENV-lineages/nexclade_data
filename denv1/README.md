@@ -1,4 +1,4 @@
-# Nextclade dataset for "denv-1" based on reference "NC_001477" (../../v2/DENV1/)
+# Nextclade dataset for "denv-1" based on reference "NC_001477"
 
 
 ## Dataset attributes

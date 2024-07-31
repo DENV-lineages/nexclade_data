@@ -1,7 +1,7 @@
 {
   "version": "v2",
   "meta": {
-    "updated": "2024-07-25",
+    "updated": "2024-07-31",
     "genome_annotations": {
       "2K": {
         "end": 6825,
@@ -98,7 +98,7 @@
     "colorings": [
       {
         "key": "clade_membership",
-        "title": "Lineages",
+        "title": "Clade",
         "type": "categorical"
       },
       {
@@ -17852,7 +17852,7 @@
                                                                         "node_attrs": {
                                                                           "div": 0.29188116000000014,
                                                                           "clade_membership": {
-                                                                            "value": "2V_A.3"
+                                                                            "value": "2V_A.2"
                                                                           }
                                                                         },
                                                                         "branch_attrs": {
@@ -17892,7 +17892,7 @@
                                                                           },
                                                                           "labels": {
                                                                             "aa": "NS2A: A158T",
-                                                                            "lineages": "2V_A.3"
+                                                                            "lineages": "2V_A.2"
                                                                           }
                                                                         },
                                                                         "children": [
@@ -17901,7 +17901,7 @@
                                                                             "node_attrs": {
                                                                               "div": 0.32961826000000016,
                                                                               "clade_membership": {
-                                                                                "value": "2V_A.3"
+                                                                                "value": "2V_A.2"
                                                                               }
                                                                             },
                                                                             "branch_attrs": {
@@ -18339,7 +18339,7 @@
                                                                             "node_attrs": {
                                                                               "div": 0.2919755900000001,
                                                                               "clade_membership": {
-                                                                                "value": "2V_A.3"
+                                                                                "value": "2V_A.2"
                                                                               }
                                                                             },
                                                                             "branch_attrs": {
@@ -18357,7 +18357,7 @@
                                                                                 "node_attrs": {
                                                                                   "div": 0.29875209000000014,
                                                                                   "clade_membership": {
-                                                                                    "value": "2V_A.3"
+                                                                                    "value": "2V_A.2"
                                                                                   }
                                                                                 },
                                                                                 "branch_attrs": {
@@ -18450,7 +18450,7 @@
                                                                                 "node_attrs": {
                                                                                   "div": 0.2924794300000001,
                                                                                   "clade_membership": {
-                                                                                    "value": "2V_A.3"
+                                                                                    "value": "2V_A.2"
                                                                                   }
                                                                                 },
                                                                                 "branch_attrs": {
@@ -18476,7 +18476,7 @@
                                                                                     "node_attrs": {
                                                                                       "div": 0.29830379000000007,
                                                                                       "clade_membership": {
-                                                                                        "value": "2V_A.3"
+                                                                                        "value": "2V_A.2"
                                                                                       }
                                                                                     },
                                                                                     "branch_attrs": {
@@ -18569,7 +18569,7 @@
                                                                                     "node_attrs": {
                                                                                       "div": 0.2926586500000001,
                                                                                       "clade_membership": {
-                                                                                        "value": "2V_A.3"
+                                                                                        "value": "2V_A.2"
                                                                                       }
                                                                                     },
                                                                                     "branch_attrs": {
@@ -18587,7 +18587,7 @@
                                                                                         "node_attrs": {
                                                                                           "div": 0.29741853000000007,
                                                                                           "clade_membership": {
-                                                                                            "value": "2V_A.3"
+                                                                                            "value": "2V_A.2"
                                                                                           }
                                                                                         },
                                                                                         "branch_attrs": {
@@ -18666,7 +18666,7 @@
                                                                                         "node_attrs": {
                                                                                           "div": 0.30028789000000006,
                                                                                           "clade_membership": {
-                                                                                            "value": "2V_A.3"
+                                                                                            "value": "2V_A.2"
                                                                                           }
                                                                                         },
                                                                                         "branch_attrs": {
@@ -19363,7 +19363,7 @@
                                                                         "node_attrs": {
                                                                           "div": 0.28752956000000013,
                                                                           "clade_membership": {
-                                                                            "value": "2V_A.2"
+                                                                            "value": "2V_A.3"
                                                                           }
                                                                         },
                                                                         "branch_attrs": {
@@ -19399,7 +19399,7 @@
                                                                             ]
                                                                           },
                                                                           "labels": {
-                                                                            "lineages": "2V_A.2"
+                                                                            "lineages": "2V_A.3"
                                                                           }
                                                                         },
                                                                         "children": [
@@ -19408,7 +19408,7 @@
                                                                             "node_attrs": {
                                                                               "div": 0.28841649000000014,
                                                                               "clade_membership": {
-                                                                                "value": "2V_A.2"
+                                                                                "value": "2V_A.3"
                                                                               }
                                                                             },
                                                                             "branch_attrs": {
@@ -19439,7 +19439,7 @@
                                                                             "node_attrs": {
                                                                               "div": 0.2889161100000001,
                                                                               "clade_membership": {
-                                                                                "value": "2V_A.2"
+                                                                                "value": "2V_A.3"
                                                                               }
                                                                             },
                                                                             "branch_attrs": {
@@ -19473,7 +19473,7 @@
                                                                                 "node_attrs": {
                                                                                   "div": 0.29285481000000013,
                                                                                   "clade_membership": {
-                                                                                    "value": "2V_A.2"
+                                                                                    "value": "2V_A.3"
                                                                                   }
                                                                                 },
                                                                                 "branch_attrs": {
@@ -19533,7 +19533,7 @@
                                                                                 "node_attrs": {
                                                                                   "div": 0.2890139700000001,
                                                                                   "clade_membership": {
-                                                                                    "value": "2V_A.2"
+                                                                                    "value": "2V_A.3"
                                                                                   }
                                                                                 },
                                                                                 "branch_attrs": {
@@ -19550,7 +19550,7 @@
                                                                                     "node_attrs": {
                                                                                       "div": 0.2927606500000001,
                                                                                       "clade_membership": {
-                                                                                        "value": "2V_A.2"
+                                                                                        "value": "2V_A.3"
                                                                                       }
                                                                                     },
                                                                                     "branch_attrs": {
@@ -19631,7 +19631,7 @@
                                                                                     "node_attrs": {
                                                                                       "div": 0.2898014600000001,
                                                                                       "clade_membership": {
-                                                                                        "value": "2V_A.2"
+                                                                                        "value": "2V_A.3"
                                                                                       }
                                                                                     },
                                                                                     "branch_attrs": {
@@ -19651,7 +19651,7 @@
                                                                                         "node_attrs": {
                                                                                           "div": 0.29305456000000013,
                                                                                           "clade_membership": {
-                                                                                            "value": "2V_A.2"
+                                                                                            "value": "2V_A.3"
                                                                                           }
                                                                                         },
                                                                                         "branch_attrs": {
@@ -19716,7 +19716,7 @@
                                                                                         "node_attrs": {
                                                                                           "div": 0.28989929000000014,
                                                                                           "clade_membership": {
-                                                                                            "value": "2V_A.2"
+                                                                                            "value": "2V_A.3"
                                                                                           }
                                                                                         },
                                                                                         "branch_attrs": {
@@ -19732,7 +19732,7 @@
                                                                                             "node_attrs": {
                                                                                               "div": 0.29433549000000014,
                                                                                               "clade_membership": {
-                                                                                                "value": "2V_A.2"
+                                                                                                "value": "2V_A.3"
                                                                                               }
                                                                                             },
                                                                                             "branch_attrs": {
@@ -19791,7 +19791,7 @@
                                                                                             "node_attrs": {
                                                                                               "div": 0.29384570000000015,
                                                                                               "clade_membership": {
-                                                                                                "value": "2V_A.2"
+                                                                                                "value": "2V_A.3"
                                                                                               }
                                                                                             },
                                                                                             "branch_attrs": {

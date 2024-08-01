@@ -1,7 +1,7 @@
 {
   "version": "v2",
   "meta": {
-    "updated": "2024-07-25",
+    "updated": "2024-08-01",
     "genome_annotations": {
       "2K": {
         "end": 6827,
@@ -98,7 +98,7 @@
     "colorings": [
       {
         "key": "clade_membership",
-        "title": "Lineage",
+        "title": "Clade",
         "type": "categorical"
       },
       {
